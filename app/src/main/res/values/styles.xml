@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NumBtn">
+
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+
+        <item name="android:layout_margin">4dp</item>
+
+        <!-- number buttons -->
+        <item name="android:backgroundTint">#16213E</item>
+
+    </style>
+
+
+    <style name="OpBtn">
+
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+
+        <item name="android:layout_margin">4dp</item>
+
+        <!-- NEW operator color (blue) -->
+        <item name="android:backgroundTint">#1F6FEB</item>
+
+    </style>
+
+
+    <style name="FuncBtn">
+
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+
+        <item name="android:layout_margin">4dp</item>
+
+        <!-- SAME color as numbers -->
+        <item name="android:backgroundTint">#16213E</item>
+
+    </style>
+</resources>
